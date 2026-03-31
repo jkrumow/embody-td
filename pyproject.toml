@@ -1,6 +1,6 @@
 [project]
 name = "embody-td"
-version = "0.1.0"
+version = "5.0.277"
 description = "TD component to add json filestructure and embedded Model Context Protocol (MCP) server."
 readme = "README.md"
 requires-python = ">=3.11"
